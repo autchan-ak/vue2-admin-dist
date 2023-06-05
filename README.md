@@ -4,6 +4,9 @@ vue2 后台管理系统模板
 [gitee 地址](https://gitee.com/todpole/vue2-admin)
 [github 地址](https://github.com/autchan-ak/vue2-admin)
 
+
+[github预览地址：](https://autchan-ak.github.io/vue2-admin.github.io/)https://autchan-ak.github.io/vue2-admin.github.io/
+
 本项目可作为模板进行二次开发，基础功能均可以直接复用。
 
 - 项目技术栈基于 `ES2015+、vue、vuex、vue-router 、vue-cli 、axios`；
@@ -130,4 +133,4 @@ el 图标也可传入
 - 如果有意见和问题 请在 lssues提出，我看到后会解答。
 - 作者公众号
 
-<img src="img/公众号.png" alt="公众号" width="60%" >
+<img src="image/公众号.png" alt="公众号" width="60%" >
